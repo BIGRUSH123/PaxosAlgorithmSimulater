@@ -1,0 +1,5 @@
+{
+  "name": "Paxos Interactive Simulator",
+  "description": "A step-by-step, interactive simulator for the Paxos consensus algorithm. Explore scenarios like Basic Consensus, Dueling Proposers (Livelock), and Value Discovery with Quorums.",
+  "requestFramePermissions": []
+}
